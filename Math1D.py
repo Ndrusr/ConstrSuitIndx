@@ -140,3 +140,5 @@ with Image.open("Images/Elevation.png") as elev, Image.open("Images/Rainfall.png
 	print("Max:", max(indexlist))
 	print("Min:", min(indexlist))
 	new_map.save('new_map.png')
+
+#Hello!
